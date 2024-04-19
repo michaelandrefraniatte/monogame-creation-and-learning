@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\bin\Release\Game.exe.config
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\bin\Release\Game.exe
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\bin\Release\Game.pdb
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.Form1.resources
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.exe
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\Game\Game\obj\Release\Game.pdb

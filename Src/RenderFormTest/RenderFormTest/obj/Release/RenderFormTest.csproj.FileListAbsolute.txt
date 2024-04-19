@@ -1,0 +1,17 @@
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\RenderFormTest.exe.config
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\RenderFormTest.exe
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\RenderFormTest.pdb
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.Form1.resources
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.exe
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.pdb
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\SharpDX.Desktop.dll
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\SharpDX.dll
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\SharpDX.pdb
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\SharpDX.Desktop.pdb
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\bin\Release\SharpDX.Desktop.xml
+C:\Users\mic\Documents\GitHub\RenderFormTest\Src\RenderFormTest\RenderFormTest\obj\Release\RenderFormTest.csproj.CopyComplete
